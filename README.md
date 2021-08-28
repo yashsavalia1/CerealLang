@@ -26,3 +26,4 @@ A language interpreted in Java the borrows syntax from Javascript.
 - There is no API yet either although I am working on adding built-in functions similar to those in Python. 
 - Multiline support still needs to be added which is why it is should really only be used in the shell as of now.
 
+Download the installer [here](https://yashsavalia1.github.io/Website/other-projects/CerealLang/Cereal-Installer.zip)
