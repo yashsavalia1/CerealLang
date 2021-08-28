@@ -1,0 +1,6 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.exportJar.targetPath": "C:\\Users\\YashS\\Documents\\VS Code\\Java\\Exported-Jars\\${workspaceFolderBasename}.jar",
+    "java.dependency.syncWithFolderExplorer": false
+    
+}
