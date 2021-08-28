@@ -1,6 +1,6 @@
 # The Cereal Language
 
-A language interpreted in Java the borrows syntax from Javascript. 
+A language interpreted in Java that borrows syntax from Javascript. 
 
 ## What it has
 
